@@ -1,0 +1,75 @@
+========================================
+Début de la séquence de tirages
+
+*** Simulation avec 2 pas ***
+100000  simulations
+Moyenne du résultat -3.49526448972e-20
+Variance du résultat 3.96442518858e-33
+
+*** Simulation avec 4 pas ***
+100000  simulations
+Moyenne du résultat 4.13716776766e-19
+Variance du résultat 7.02645558847e-33
+
+*** Simulation avec 8 pas ***
+100000  simulations
+Moyenne du résultat -6.09191516676e-20
+Variance du résultat 1.2002196479e-32
+
+*** Simulation avec 16 pas ***
+100000  simulations
+Moyenne du résultat -7.099138985e-20
+Variance du résultat 2.00139312055e-32
+
+*** Simulation avec 32 pas ***
+100000  simulations
+Moyenne du résultat 6.09238679471e-19
+Variance du résultat 3.42638059861e-32
+
+*** Simulation avec 64 pas ***
+100000  simulations
+Moyenne du résultat 1.61220863049e-19
+Variance du résultat 6.40795496159e-32
+
+*** Simulation avec 128 pas ***
+100000  simulations
+Moyenne du résultat -2.00838260953e-18
+Variance du résultat 1.2106425815e-31
+
+*** Simulation avec 256 pas ***
+100000  simulations
+Moyenne du résultat 1.12277971209e-18
+Variance du résultat 2.30703755301e-31
+
+*** Simulation avec 512 pas ***
+100000  simulations
+Moyenne du résultat 1.05640566824e-18
+Variance du résultat 4.63093694449e-31
+
+*** Simulation avec 1024 pas ***
+100000  simulations
+Moyenne du résultat -1.04324345386e-18
+Variance du résultat 9.29621135491e-31
+
+*** Simulation avec 2048 pas ***
+100000  simulations
+Moyenne du résultat -2.69016363005e-18
+Variance du résultat 1.86427501562e-30
+
+*** Simulation avec 4096 pas ***
+100000  simulations
+Moyenne du résultat -4.91056468491e-18
+Variance du résultat 3.66093178493e-30
+
+*** Simulation avec 8192 pas ***
+100000  simulations
+Moyenne du résultat 7.27699069622e-18
+Variance du résultat 7.46187740735e-30
+
+*** Simulation avec 16384 pas ***
+100000  simulations
+Moyenne du résultat -7.12735480444e-18
+Variance du résultat 1.51798223232e-29
+
+*** Simulation avec 32768 pas ***
+100000  simulations
